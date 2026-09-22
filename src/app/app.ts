@@ -10,4 +10,5 @@ import { SignupForm } from "./signup-form/signup-form";
 })
 export class App {
   protected readonly title = signal('new-angular');
+  // Just a comment
 }
